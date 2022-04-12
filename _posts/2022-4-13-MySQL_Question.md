@@ -1,6 +1,6 @@
 ---
-layout: article
-title："MySQL数据库"
+title: MySQL
+tags: TeXt
 ---
 
 # MySQL问题汇总
